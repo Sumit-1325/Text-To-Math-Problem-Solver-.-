@@ -2,7 +2,8 @@ Intelligent Math & Knowledge Agent 🧠✨
 
 An AI assistant powered by Groq and LangChain that can solve math problems and answer general knowledge questions by leveraging external tools to ensure accuracy and prevent hallucination.
 
-➡️ View the Live Application Demo Here (Replace with your actual Streamlit link)
+➡️ View the Live Application Demo Here
+https://sumit-1325-text-to-math-problem-solver----app-ay4bmx.streamlit.app/
 
 🎯 The Problem
 Standard Large Language Models (LLMs) are incredibly powerful but can sometimes "hallucinate" or generate incorrect information. This is especially true for tasks requiring precise, real-time data, such as mathematical calculations or factual queries about current events.
@@ -61,6 +62,7 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 🙏 Acknowledgements
 This project was inspired by the excellent and comprehensive Generative AI course taught by @krishnaik06 His clear explanations of the LangChain ecosystem were invaluable in the development of this application.
+
 
 
 
