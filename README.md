@@ -57,20 +57,12 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    streamlit run app.py
 
    The application should now be running in your web browser!
-   
-📂 File Structure
-.
-├── .streamlit/
-│   └── secrets.toml      # For local Streamlit secrets (optional)
-├── .env                  # Stores API keys for local development
-├── .gitignore            # Specifies files to ignore for Git
-├── app.py                # Main Streamlit application file
-├── README.md             # Project documentation
-├── requirements.txt      # Python dependencies
-└── style.css             # CSS for custom styling
+     
 
 🙏 Acknowledgements
-This project was inspired by the excellent and comprehensive Generative AI course taught by KrishNaik. His clear explanations of the LangChain ecosystem were invaluable in the development of this application.
+This project was inspired by the excellent and comprehensive Generative AI course taught by @krishnaik06 His clear explanations of the LangChain ecosystem were invaluable in the development of this application.
+
+
 
 
 
